@@ -2,7 +2,7 @@
 
 A growing collection of GNU Emacs themes.
 
-## Veridis Quo
+## veridis-quo
 
 <p align="center">
   <img src="assets/veridis-quo.gif" alt="Veridis Quo preview" width="700">
