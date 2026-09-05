@@ -9,7 +9,7 @@ A growing collection of GNU Emacs themes.
 </p>
 
 
-> `2gab / veridis-quo-theme.el`
+> `veridis-quo-theme.el`
 >
 > A dark Emacs theme inspired by Daft Punk's *Veridis Quo*.
 
